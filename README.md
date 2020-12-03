@@ -44,9 +44,8 @@ Here are some ideas to get you started:
 <p align="Left"> 
  <b> Can you break this count?</b><br>
   <img src="https://enuudv8kx58ziei.m.pipedream.net" />
-</p>
-
    ![Visitor Count](https://profile-counter.glitch.me/i-adarsh/count.svg)
+</p>
    
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
