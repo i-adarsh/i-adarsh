@@ -1,11 +1,8 @@
 ## Hi { coders }! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Adarsh 👨‍🎓
 
+<img align="right" alt="GIF" src="https://github.com/i-adarsh/i-adarsh/blob/main/code.gif?raw=true" width="414" height="320" />
 
 <!--Header-->
-
-
-
-  
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Ansible, Docker, AWS, DevOps 
@@ -13,7 +10,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 
-<img align="right" alt="GIF" src="https://github.com/i-adarsh/i-adarsh/blob/main/code.gif?raw=true" width="414" height="320" />
+
  <!-- 
 **i-adarsh/i-adarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
