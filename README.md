@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 
 
 -->
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/i-adarsh)
+[![Linkedin Badge](https://img.shields.io/badge/-Adarsh%20Kumar-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/adarsh-kr/)](https://www.linkedin.com/in/adarsh-kr//) [![Twitter Badge](http://img.shields.io/badge/-@Adarsh-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/i_adarsh_kr/)](https://twitter.com/i_adarsh_kr) [![GitHub followers](https://img.shields.io/github/followers/hac?label=Follow&style=social)](https://github.com/i-adarsh)
+[![Instagram Badge](https://img.shields.io/badge/-AdarshKumar-blue?style=social&logo=Instagram&link=https://www.linkedin.com/in/adarsh-kr/)](https://www.linkedin.com/in/adarsh-kr/) 
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <!--Github Progess bar-->
@@ -46,7 +49,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/adarsh-kr/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/adarsh_saw/?hl=en" target="_blank">
+<a href="https://www.instagram.com/adarsh_saw/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 
