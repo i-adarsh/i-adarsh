@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 <p align="Left"> 
  <b> Can you break this count?</b><br>
   <img src="https://enuudv8kx58ziei.m.pipedream.net" />
+  <img src="https://profile-counter.glitch.me/i-adarsh/count.svg)"/>
 </p>
 
    
