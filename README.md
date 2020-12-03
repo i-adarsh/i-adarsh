@@ -1,4 +1,4 @@
-## Hi < coders />! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Adarsh 👨‍🎓
+## Hi { coders }! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Adarsh 👨‍🎓
 
 
 <!--Header-->
@@ -12,9 +12,6 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
  <!-- 
 **i-adarsh/i-adarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -38,7 +35,7 @@ Here are some ideas to get you started:
  <!--- <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=i-adarsh&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Adarsh's github stats" />
 &layout=compact -->
 <!---[![GitHub](https://github-readme-stats-abserari.vercel.app/api?username=i-adarsh&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/i-adarsh)-->
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/> 
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/> 
 <div align="center">
 <a href="https://github.com/i-adarsh" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -56,7 +53,7 @@ Here are some ideas to get you started:
 
 
 </div>  
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/> 
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <div>
 <br/>  
 <p align="Center"> 
