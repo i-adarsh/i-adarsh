@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <p align="center"> 
  <b> Can you break this count?</b><br>
-  <img src="https://profile-counter.glitch.me/hackcoderr/count.svg" />
+  <img src="https://enuudv8kx58ziei.m.pipedream.net" />
   
 </p>
 
@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 
 
 
-<a href="steps.trigger.raw_event.url"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
+<a href="https://enuudv8kx58ziei.m.pipedream.net"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
