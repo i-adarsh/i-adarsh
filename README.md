@@ -41,15 +41,10 @@ Here are some ideas to get you started:
 
 <div>
 <br/>  
-<p align="Left"> 
- <b> Can you break this count?</b><br>
-  <img src="https://enuudv8kx58ziei.m.pipedream.net" />
+<p align="Center"> 
   <img src="https://profile-counter.glitch.me/i-adarsh/count.svg" />  
 </p>
-    ![Visitor Count](https://profile-counter.glitch.me/i-adarsh/count.svg)
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-
-
+<img height="100" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 <a href="https://github.com/hackcoderr/hackcoderr"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
   </div>
