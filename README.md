@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 <div>
 <br/>  
 <p align="Center"> 
+   <b> Can you break this count?</b><br>
   <img src="https://profile-counter.glitch.me/i-adarsh/count.svg" />  
 </p>
 <img height="100" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
