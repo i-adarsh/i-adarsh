@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://github.com/i-adarsh/i-adarsh/blob/main/code.gif?raw=true" width="414" height="320" />
 
 <!--Header-->
-
+<br><br/><br/><br/><br/>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Ansible, Docker, AWS, DevOps 
 - 👯 I’m looking to collaborate on ...
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 -->
 ##
-<br><br><br><br><br><br><br/><br/><br/><br/>
+<br><br><br><br><br>
 
 <div align="center">
   
