@@ -34,7 +34,7 @@ Here are some ideas to get you started:
  
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-adarsh&layout=compact)](https://github.com/i-adarsh/github-readme-stats" />
 </a>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---[![GitHub](https://github-readme-stats-abserari.vercel.app/api?username=i-adarsh&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/i-adarsh)-->
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>  
