@@ -22,6 +22,20 @@ Here are some ideas to get you started:
 
 -->
 
+
+<!--Github Progess bar-->
+
+## Quick Overview 📝
+    
+<a href="https://github.com/hackcoderr/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=i-adarsh&show_icons=true&include_all_commits=true&theme=radical" alt="Adarsh's github stats" />
+</a>
+<a href="https://github.com/i-adarsh/github-readme-stats">
+ 
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=i-adarsh9&layout=compact&theme=radical" />
+</a>
+
+
 [![GitHub](https://github-readme-stats-abserari.vercel.app/api?username=i-adarsh&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/i-adarsh)
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>  
 
