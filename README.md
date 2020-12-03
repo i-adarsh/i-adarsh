@@ -39,33 +39,9 @@ Here are some ideas to get you started:
 <!---[![GitHub](https://github-readme-stats-abserari.vercel.app/api?username=i-adarsh&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/i-adarsh)-->
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>  
 
-
-<p align="center"> 
- <b> Can you break this count?</b><br>
-  <img src="https://enuudv8kx58ziei.m.pipedream.net" />
-  
-</p>
- 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-
-
-
-<a href="https://enuudv8kx58ziei.m.pipedream.net"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
-  
-  
-  
-  
-  
-  
-  
-  <div>
-  </div>  
-  
-
+<div>
 <br/>  
-
-
-<p align="center"> 
+<p align="Left"> 
  <b> Can you break this count?</b><br>
   <img src="https://enuudv8kx58ziei.m.pipedream.net" />
 </p>
@@ -76,4 +52,4 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/hackcoderr/hackcoderr"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
-
+  </div>
