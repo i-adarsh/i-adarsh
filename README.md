@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 -->
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 <div align="center">
   
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 [![Instagram Badge](https://img.shields.io/badge/-AdarshKumar-blue?style=social&logo=Instagram&link=https://www.linkedin.com/in/adarsh-kr/)](https://www.linkedin.com/in/adarsh-kr/) 
 
 </div>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
 <!--Github Progess bar-->
 
 ## Quick Overview 📝
