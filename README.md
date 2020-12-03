@@ -1,7 +1,14 @@
 ## Hi { coders }! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Adarsh 👨‍🎓
 <!--
-**i-adarsh/i-adarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<!--Header-->
+
+
+
+  <img align="right" alt="GIF" src="https://github.com/i-adarsh/i-adarsh/blob/main/code.gif?raw=true" width="414" height="320" />
+  
+**i-adarsh/i-adarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://github.com/i-adarsh/i-adarsh/blob/main/code.gif
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
