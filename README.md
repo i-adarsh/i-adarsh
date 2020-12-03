@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 -->
 
-
-<br/>  
+[![GitHub](https://github-readme-stats-abserari.vercel.app/api?username=abserari&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/abserari)
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>  
 
 
 <p align="center"> 
