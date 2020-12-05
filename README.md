@@ -78,7 +78,7 @@ As we all know that under <b>engineering</b>, technical skills always provide un
  ![Slack](https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white)
  ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white)
  [![centOS](https://img.shields.io/badge/CentOS-7.0-blue?style=flat-square&logo=CentOS&logoColor=262577)](https://www.centos.org/)
- [![Pycharm](https://img.shields.io/badge/IDE-Intellij-Idea-red?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
+ [![Intellij](https://img.shields.io/badge/IDE-Intellij--IDEA-red?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
   [![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
  [![Ansible](https://img.shields.io/badge/-ansible-326CE5?style=flat-square&logo=ansible&logoColor=000000)](https://ansible.io/)
 <a href="https://dev.to/i_adarsh">
