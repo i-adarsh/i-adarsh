@@ -1,4 +1,4 @@
-## Namaste { coders }!  <img src="https://github.com/i-adarsh/i-adarsh/blob/main/432008031_FOLDED_HANDS_3D_LIGHT_SKIN_TONE_400px.gif" width="45px"/>  , I am Adarsh 👨‍🎓
+## Namaste { coders }!  <img src="https://github.com/i-adarsh/i-adarsh/blob/main/ezgif.com-gif-maker.gif" width="45px"/>  , I am Adarsh 👨‍🎓
 
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
