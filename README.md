@@ -28,6 +28,18 @@ Here are some ideas to get you started:
 
 </div>
 <br/><br/>
+
+<!--About Me-->
+<div>
+ <p>
+  <img width="240" height="230" align='right' src="https://github.com/i-adarsh/i-adarsh/blob/main/Ad4rsh.png"> 
+</p>
+
+
+
+
+
+
 <!--Github Progess bar-->
 
 ## Quick Overview 📝
