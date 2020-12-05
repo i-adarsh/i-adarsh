@@ -1,4 +1,4 @@
-## Hi { coders }! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Adarsh 👨‍🎓
+## Namaste 🙏  { coders }! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Adarsh 👨‍🎓
 
 <img align="right" alt="GIF" src="https://github.com/i-adarsh/i-adarsh/blob/main/code.gif?raw=true" width="414" height="320" />
 
