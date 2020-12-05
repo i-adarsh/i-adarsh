@@ -1,4 +1,4 @@
-## Namaste <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F709528116278750393%2F&psig=AOvVaw3okXJq9C2N8TkcOF3vu9IT&ust=1607242537781000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDoipiztu0CFQAAAAAdAAAAABAD" />  { coders }! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Adarsh 👨‍🎓
+## Namaste <img src='https://github.com/i-adarsh/i-adarsh/blob/main/92598f86d39965bbc493ce8b3f141d2d.gif' />  { coders }! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Adarsh 👨‍🎓
 
 <img align="right" alt="GIF" src="https://github.com/i-adarsh/i-adarsh/blob/main/code.gif?raw=true" width="414" height="320" />
 
