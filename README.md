@@ -95,7 +95,7 @@ As we all know that under <b>engineering</b>, technical skills always provide un
 </a>
 <a href="https://github.com/i-adarsh/github-readme-stats">
  
-  <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-adarsh&layout=compact&show_icons=true)](https://github.com/i-adarsh/github-readme-stats" />
+  <img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-adarsh&layout=compact&show_icons=true)](https://github.com/i-adarsh/github-readme-stats" />
 </a>
 
  <!--- <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=i-adarsh&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Adarsh's github stats" />
