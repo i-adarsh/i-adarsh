@@ -70,7 +70,7 @@ As we all know that under <b>engineering</b>, technical skills always provide un
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![OS](https://img.shields.io/badge/OS-macOS-blue/style=flat-square&logo=apple)
+![OS](https://img.shields.io/badge/OS-macOS-blue/?style=flat-square&logo=apple)
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 ![OS](https://img.shields.io/badge/OS-Windows-blue/?style=flat&logo=windows&logoColor=blue)
  ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
