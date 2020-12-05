@@ -91,7 +91,7 @@ As we all know that under <b>engineering</b>, technical skills always provide un
 ## Quick Overview 📝
     
 <a href="https://github.com/hackcoderr/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=i-adarsh&&layout=compact" alt="Adarsh's github stats" />
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=i-adarsh&&layout=compact&show_icons=true" alt="Adarsh's github stats" />
 </a>
 <a href="https://github.com/i-adarsh/github-readme-stats">
  
