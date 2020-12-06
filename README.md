@@ -1,4 +1,4 @@
-# Namaste { coders } !   <img src="https://github.com/i-adarsh/i-adarsh/blob/main/gif/Namaste.gif" width="40px"/>  , I am Adarsh <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/271/man-student_1f468-200d-1f393.png" width="30px" />
+# Namaste { coders } ! &nbsp; <img src="https://github.com/i-adarsh/i-adarsh/blob/main/gif/Namaste.gif" width="40px"/>  &nbsp;, I am Adarsh &nbsp; <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/271/man-student_1f468-200d-1f393.png" width="30px" />
 
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
