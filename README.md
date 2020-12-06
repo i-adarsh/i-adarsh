@@ -1,4 +1,4 @@
-# Namaste { coders } !   <img src="https://github.com/i-adarsh/i-adarsh/blob/main/gif/Namaste.gif" width="40px"/>  , I am Adarsh 👨‍🎓
+# Namaste { coders } !   <img src="https://github.com/i-adarsh/i-adarsh/blob/main/gif/Namaste.gif" width="40px"/>  , I am Adarsh <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/271/man-student_1f468-200d-1f393.png" width="30px" />
 
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   <img width="240" height="230" align='right' src="https://github.com/i-adarsh/i-adarsh/blob/main/gif/Hii.gif"> 
 </p>
  
-## About Me  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/facebook/230/writing-hand_270d.png" width="30px"/>
+## About Me  &nbsp; <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/facebook/230/writing-hand_270d.png" width="30px"/>
  <!-- ✍ -->
  I m <b> Adarsh Kumar</b>, pursuing <b>Electronics and Communication Engineering</b>. As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind different popular Technological Fields. 
 
