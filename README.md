@@ -1,10 +1,10 @@
-## Namaste { coders } !   <img src="https://github.com/i-adarsh/i-adarsh/blob/main/ezgif.com-gif-maker.gif" width="35px"/>  , I am Adarsh 👨‍🎓
+## Namaste { coders } !   <img src="https://github.com/i-adarsh/i-adarsh/blob/main/gif/Namaste.gif" width="35px"/>  , I am Adarsh 👨‍🎓
 
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
 https://github.com/i-adarsh/i-adarsh/blob/main/92598f86d39965bbc493ce8b3f141d2d.gif  -->
 
-<img align="right" alt="GIF" src="https://github.com/i-adarsh/i-adarsh/blob/main/code.gif?raw=true" width="414" height="320" />
+<img align="right" alt="GIF" src="https://github.com/i-adarsh/i-adarsh/blob/main/gif/code.gif?raw=true" width="414" height="320" />
 
 <!--Header-->
 <br><br/><br/>
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <!--About Me-->
 <div>
  <p>
-  <img width="240" height="230" align='right' src="https://github.com/i-adarsh/i-adarsh/blob/main/0*K2WLMTExLyida7OR.gif"> 
+  <img width="240" height="230" align='right' src="https://github.com/i-adarsh/i-adarsh/blob/main/gif/Hii.gif"> 
 </p>
  
 ## About Me ✍
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 ## Technical Skills 🛠 
 
-<img align='left' src='https://github.com/i-adarsh/i-adarsh/blob/main/skill.gif' width='300"'>
+<img align='left' src='https://github.com/i-adarsh/i-adarsh/blob/main/gif/skill.gif' width='300"'>
 
 As we all know that under <b>engineering</b>, technical skills always provide unique gratitude and passion for any technical guy. So these technical skills of the engineer always help him, in the same way at all the time, Just as <b>Soldier</b> protects his life from his enemies using the weapons and scriptures in a war. I am also an engineer, so I too should have such weapons and scriptures, so I  have some technical skills too,  which are the following but I am also in a learning state and learning many tools and technologies under the World Record Holder [<b>Mr. Vimal Daga</b>](https://www.linkedin.com/in/vimaldaga/?originalSubdomain=in) in the one of the best training Program [<b>Arth-the school of technologies</b>](https://rightarth.com/) of [<b>Linux World informatics Pvt Ltd</b>](https://www.linuxworldindia.org/).
 
@@ -84,6 +84,17 @@ As we all know that under <b>engineering</b>, technical skills always provide un
 <a href="https://dev.to/i_adarsh">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="amitsharma's DEV Profile" height="30" width="30">
 </a>
+
+##
+<p align="center">
+  <a href="https://www.codechef.com/users/i_adarsh">
+    <img src="https://github.com/i-adarsh/i-adarsh/blob/main/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://www.hackerrank.com/i_adarsh">
+    <img src="https://github.com/i-adarsh/i-adarsh/blob/main/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+  
 
 
 <!--Github Progess bar-->
