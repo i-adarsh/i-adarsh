@@ -102,7 +102,7 @@ As we all know that under <b>engineering</b>, technical skills always provide un
 
 <!--Github Progess bar-->
 
-## Quick Overview 📝
+## Quick Overview <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/twitter/259/memo_1f4dd.png"/>
     
 <a href="https://github.com/hackcoderr/github-readme-stats">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=i-adarsh&&layout=compact&show_icons=true&include_all_commits=true" alt="Adarsh's github stats" />
