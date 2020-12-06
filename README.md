@@ -1,4 +1,4 @@
-# Namaste { coders } !   <img src="https://github.com/i-adarsh/i-adarsh/blob/main/gif/Namaste.gif" width="35px"/>  , I am Adarsh 👨‍🎓
+# Namaste { coders } !   <img src="https://github.com/i-adarsh/i-adarsh/blob/main/gif/Namaste.gif" width="40px"/>  , I am Adarsh 👨‍🎓
 
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 <!--technical skill-->
 
-#  <img src="https://github.com/i-adarsh/i-adarsh/blob/main/gif/Settings.gif" width="33px" />  &nbsp;   Technical Skills 
+# Technical Skills  &nbsp; <img src="https://github.com/i-adarsh/i-adarsh/blob/main/gif/Settings.gif" width="30px" />
 
 <!--Technical Skills 🛠 -->
 
