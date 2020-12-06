@@ -91,7 +91,7 @@ As we all know that under <b>engineering</b>, technical skills always provide un
     <img src="https://github.com/i-adarsh/i-adarsh/blob/main/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
   
-  <a href="https://www.hackerrank.com/i_adarsh" target='_blank'>
+  <a href="https://www.hackerrank.com/i_adarsh" target="_blank">
     <img src="https://github.com/i-adarsh/i-adarsh/blob/main/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
   
