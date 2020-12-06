@@ -50,8 +50,7 @@ Here are some ideas to get you started:
 
 <!--technical skill-->
 
-## Technical Skills 🛠 
-<img src="https://github.com/i-adarsh/i-adarsh/blob/main/gif/Settings.gif" width="30px" height="-10px" />
+## Technical Skills 🛠 <img src="https://github.com/i-adarsh/i-adarsh/blob/main/gif/Settings.gif" width="30px" height="-1000px" />
 
 <img align='left' src='https://github.com/i-adarsh/i-adarsh/blob/main/gif/skill.gif' width='300"'>
 
