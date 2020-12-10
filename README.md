@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 <!--technical skill-->
 
-## Technical Skills  &nbsp; <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/twitter/259/hammer-and-wrench_1f6e0.png" width="30px" />
+## Technical Skills  &nbsp; <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/twitter/259/hammer-and-wrench_1f6e0.png" width="40px" />
 
 <!--Technical Skills 🛠 -->
 
