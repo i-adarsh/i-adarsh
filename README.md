@@ -138,7 +138,7 @@ As we all know that under <b>engineering</b>, technical skills always provide un
 
 
 <!--BLOG Process-->
-## Updates 🤓
+## Updates <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/263/nerd-face_1f913.png" width=30px>
 <b>
 <table><tr><td valign="top" width="33%">
 
