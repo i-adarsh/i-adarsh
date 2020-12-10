@@ -2,9 +2,15 @@
 
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
-https://github.com/i-adarsh/i-adarsh/blob/main/92598f86d39965bbc493ce8b3f141d2d.gif  -->
+https://github.com/i-adarsh/i-adarsh/blob/main/92598f86d39965bbc493ce8b3f141d2d.gif  
 
-<img align="right" alt="GIF" src="https://github.com/i-adarsh/i-adarsh/blob/main/gif/code.gif?raw=true" width="414" height="320" />
+
+
+https://github.com/i-adarsh/i-adarsh/blob/main/gif/code.gif?raw=true
+
+-->
+
+<img align="right" alt="GIF" src="https://github.com/i-adarsh/i-adarsh/blob/main/gif/coding_adarsh.gif" width="414" height="320" />
 
 <!--Header-->
 <br><br/><br/>
