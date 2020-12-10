@@ -54,12 +54,12 @@ Here are some ideas to get you started:
 
 <!--technical skill-->
 
-## Technical Skills  &nbsp; <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/twitter/259/hammer-and-wrench_1f6e0.png" width="40px" />
+## Technical Skills  &nbsp; <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/twitter/259/hammer-and-wrench_1f6e0.png" width="30px" />
 
 <!--Technical Skills 🛠 -->
 
 
-<img align='left' src='https://github.com/i-adarsh/i-adarsh/blob/main/gif/code.gif?raw=true' width='300"'>
+<img align='left' src='https://github.com/i-adarsh/i-adarsh/blob/main/gif/code.gif?raw=true' width='350"'>
 
 As we all know that under <b>engineering</b>, technical skills always provide unique gratitude and passion for any technical guy. So these technical skills of the engineer always help him, in the same way at all the time, Just as <b>Soldier</b> protects his life from his enemies using the weapons and scriptures in a war. I am also an engineer, so I too should have such weapons and scriptures, so I  have some technical skills too,  which are the following but I am also in a learning state and learning many tools and technologies under the World Record Holder [<b>Mr. Vimal Daga</b>](https://www.linkedin.com/in/vimaldaga/?originalSubdomain=in) in the one of the best training Program [<b>Arth-the school of technologies</b>](https://rightarth.com/) of [<b>Linux World informatics Pvt Ltd</b>](https://www.linuxworldindia.org/).
 
