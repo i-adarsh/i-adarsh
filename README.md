@@ -115,7 +115,7 @@ As we all know that under <b>engineering</b>, technical skills always provide un
  <!--- <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=i-adarsh&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Adarsh's github stats" />
 &layout=compact -->
 <!---[![GitHub](https://github-readme-stats-abserari.vercel.app/api?username=i-adarsh&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/i-adarsh)-->
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/> 
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/> <br/><br/><br/>
 
 
 <!--BLOG Process-->
@@ -191,7 +191,7 @@ As we all know that under <b>engineering</b>, technical skills always provide un
 
 
 </div>  
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 
 <div>
 <br/>  
