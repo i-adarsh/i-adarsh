@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <!--About Me-->
 <div>
  <p>
-  <img width="240" height="230" align='right' src="https://github.com/i-adarsh/i-adarsh/blob/main/gif/Hii.gif"> 
+  <img width="280" height="230" align='right' src="https://github.com/i-adarsh/i-adarsh/blob/main/gif/Hii.gif"> 
 </p>
  
 ## About Me  &nbsp; <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/facebook/230/writing-hand_270d.png" width="30px"/>
