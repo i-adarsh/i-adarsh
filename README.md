@@ -140,7 +140,7 @@ As we all know that under <b>engineering</b>, technical skills always provide un
    <b> Can you break this count?</b><br>
   <img src="https://profile-counter.glitch.me/i-adarsh/count.svg" />  
 </p>
-<img height="100%" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img height="100%" alt="Thanks for visiting me" width="100%" src="https://github.com/i-adarsh/i-adarsh/blob/main/svg/thanks.svg" />
 
 <a href="https://github.com/hackcoderr/hackcoderr"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
   </div>
