@@ -175,6 +175,15 @@ As we all know that under <b>engineering</b>, technical skills always provide un
 
 </td></tr></table> </b>
 
+
+<!--footer-->
+
+<img align='right' src="https://github.com/i-adarsh/i-adarsh/blob/main/gif/coding_from_home.gif" width="180">
+
+##
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+917781815738) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
+
+
 <div align="center">
 <a href="https://github.com/i-adarsh" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -182,15 +191,19 @@ As we all know that under <b>engineering</b>, technical skills always provide un
 <a href="https://www.facebook.com/adarsh994" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/adarsh-kr/" target="_blank">
+<a href="https://kadarsh994.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/adarsh-kr/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/adarsh_saw/" target="_blank">
+<a href="https://instagram.com/adarsh_saw/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 
 
+
 </div>  
+  
 <br/><br/><br/><br/><br/><br/>
 
 <div>
