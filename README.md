@@ -182,7 +182,7 @@ As we all know that under <b>engineering</b>, technical skills always provide un
 
 <!--footer-->
 
-<img align='right' src="https://github.com/i-adarsh/i-adarsh/blob/main/gif/footer2.gif" width="180">
+<img align='right' src="https://github.com/i-adarsh/i-adarsh/blob/main/gif/footer2.gif" width="240">
 
 ##
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+917781815738) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
