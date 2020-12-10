@@ -116,29 +116,10 @@ As we all know that under <b>engineering</b>, technical skills always provide un
 &layout=compact -->
 <!---[![GitHub](https://github-readme-stats-abserari.vercel.app/api?username=i-adarsh&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/i-adarsh)-->
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/> 
-<div align="center">
-<a href="https://github.com/i-adarsh" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/adarsh994" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/adarsh-kr/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/adarsh_saw/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-
-
-
-</div>  
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
 
 
 <!--BLOG Process-->
-## Updates <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/263/nerd-face_1f913.png" width=30px>
+## Updates &nbsp; <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/263/nerd-face_1f913.png" width=30px>
 <b>
 <table><tr><td valign="top" width="33%">
 
@@ -194,7 +175,23 @@ As we all know that under <b>engineering</b>, technical skills always provide un
 
 </td></tr></table> </b>
 
+<div align="center">
+<a href="https://github.com/i-adarsh" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/adarsh994" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/adarsh-kr/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/adarsh_saw/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
 
+
+</div>  
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <div>
 <br/>  
