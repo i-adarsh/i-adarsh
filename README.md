@@ -134,6 +134,68 @@ As we all know that under <b>engineering</b>, technical skills always provide un
 
 </div>  
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+
+
+<!--BLOG Process-->
+## Updates 🤓
+<b>
+<table><tr><td valign="top" width="33%">
+
+### Recent Releases
+<!-- recent_releases starts -->
+ [Contributing the Desired amount of storage of Datanode to the Hadoop Cluster by Using LVM](https://www.linkedin.com/posts/adarsh-kr_taskabr7-arth-python-activity-6742345978734555136-9FTP) - 2020-12-10
+ 
+ 
+ [Configure the Hadoop cluster by using the ansible-playbook](https://www.linkedin.com/posts/adarsh-kr_arth-task11-vimaldaga-activity-6740318220705681408-wOmQ) - 2020-12-05
+ 
+[Configure Apache Web Server On the Top of Docker by Using Ansible Playbook](https://www.linkedin.com/posts/adarsh-kr_python-vimaldaga-righteducation-activity-6739629281124659200-trh4) - 2020-12-05
+
+
+
+[Attach EBS Volume from one region to an instance in another region](https://www.linkedin.com/posts/adarsh-kr_aws-awscloud-amazonaws-activity-6740334392390017024-54bv) - 2020-12-5
+
+
+</td><td valign="top" width="34%"> 
+ 
+
+ 
+
+### On My Blog
+<!-- blog starts -->
+[Integrating LVM with Hadoop and providing Elasticity to DataNode Storage](https://kadarsh994.medium.com/integrating-lvm-with-hadoop-and-providing-elasticity-to-datanode-storage-177d0a248460) - 2020-09-02
+
+
+[Lauching an Instance and attaching a EBS using AWS CLI](https://idigitalcommunity.blogspot.com/2020/10/create-ebs-volume-and-connect-it-to-ec2.html) - 2020-10-21
+
+
+[A Review and Case Studies on AWS](https://idigitalcommunity.blogspot.com/2020/09/case-studies-of-companies-got-benefited.html) - 2020-09-21
+
+
+[A Review and Case Study at Machine Learning and Artificial Intelligence](https://idigitalcommunity.blogspot.com/2020/10/1.html) - 2020-10-17
+
+
+[Memory Management in Python](https://idigitalcommunity.blogspot.com/2020/06/memory-management-in-python-python.html) - 2020-06-25
+
+
+</td><td valign="top" width="33%">
+
+### On Going
+<!-- Articles' starts-->
+
+
+[Ansible Installation on AWS RHEL 8 & Docker Integration on Ansible](https://github.com/i-adarsh/i-adarsh/blob/main/gif/workInProgress.gif)
+
+[Launching EC2 Instance on AWS Using Ansible](https://github.com/i-adarsh/i-adarsh/blob/main/gif/workInProgress.gif)
+
+[Launching Docker using AWS and Run all Cmd Using Python](https://github.com/i-adarsh/i-adarsh/blob/main/gif/workInProgress.gif)
+
+[Deploying Web Server & HAProxy load Balancer on AWS using Ansible](https://github.com/i-adarsh/i-adarsh/blob/main/gif/workInProgress.gif)
+
+</td></tr></table> </b>
+
+
+
 <div>
 <br/>  
 <p align="Center"> 
