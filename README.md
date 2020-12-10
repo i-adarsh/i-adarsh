@@ -91,7 +91,7 @@ As we all know that under <b>engineering</b>, technical skills always provide un
 <a href="https://dev.to/i_adarsh">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="adarshkumar's DEV Profile" height="30" width="30">
 </a>
-<br><br><br>
+<br><br>
 ##
 <p align="center">
   <a href="https://www.codechef.com/users/i_adarsh" target="_blank">
