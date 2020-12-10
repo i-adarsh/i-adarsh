@@ -80,14 +80,14 @@ As we all know that under <b>engineering</b>, technical skills always provide un
 ![OS](https://img.shields.io/badge/OS-macOS-blue/?style=flat-square&logo=apple)
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 ![OS](https://img.shields.io/badge/OS-Windows-blue/?style=flat&logo=windows&logoColor=blue)
- ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
- ![Debian](https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white)
- ![Slack](https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white)
- ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white)
- [![centOS](https://img.shields.io/badge/CentOS-7.0-blue?style=flat-square&logo=CentOS&logoColor=262577)](https://www.centos.org/)
- [![Intellij](https://img.shields.io/badge/IDE-Intellij--IDEA-red?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
-  [![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
- [![Ansible](https://img.shields.io/badge/-ansible-326CE5?style=flat-square&logo=ansible&logoColor=000000)](https://ansible.io/)
+![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
+![Debian](https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white)
+![Slack](https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white)
+![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white)
+[![centOS](https://img.shields.io/badge/CentOS-7.0-blue?style=flat-square&logo=CentOS&logoColor=262577)](https://www.centos.org/)
+[![Intellij](https://img.shields.io/badge/IDE-Intellij--IDEA-red?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
+[![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
+[![Ansible](https://img.shields.io/badge/-ansible-326CE5?style=flat-square&logo=ansible&logoColor=000000)](https://ansible.io/)
 <a href="https://dev.to/i_adarsh">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="amitsharma's DEV Profile" height="30" width="30">
 </a>
@@ -182,7 +182,7 @@ As we all know that under <b>engineering</b>, technical skills always provide un
 
 <!--footer-->
 
-<img align='right' src="https://github.com/i-adarsh/i-adarsh/blob/main/gif/footer.gif" width="180">
+<img align='right' src="https://github.com/i-adarsh/i-adarsh/blob/main/gif/footer2.gif" width="180">
 
 ##
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+917781815738) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
