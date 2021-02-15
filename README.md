@@ -140,10 +140,16 @@ but also gives you various benefits which can improve the quality of your life. 
  [Ansible Role to Configure K8S Multi-Node Cluster over AWS Cloud](https://www.linkedin.com/posts/adarsh-kr_vimaldaga-righteducation-educationredefine-activity-6766694665786851328-bTr4) - 2021-02-14
  
  
- [Coin Toss application on Android Studio](https://www.linkedin.com/posts/adarsh-kr_arth-task11-vimaldaga-activity-6740318220705681408-wOmQ) - 2021-02-13
+[Coin Toss application on Android Studio](https://www.linkedin.com/posts/adarsh-kr_arth-task11-vimaldaga-activity-6740318220705681408-wOmQ) - 2021-02-13
+
+
  
 [Configure WordPress on AWS EC2 Instance by Using Relational Database Service (RDS)](https://youtu.be/Y_0KPGsePqY) - 2021-02-13
 
+
+[Python Project on Mouzikka(A Music Player)](https://www.linkedin.com/posts/adarsh-kr_adarsh-kumar-python-project-certificate-activity-6766326019277279232-a-cc) - 2021-02-13
+
+[Workshop on Git and GitHub under the Mentorship of The World Record Holder - Mr. Vimal Daga Sir](https://www.linkedin.com/posts/adarsh-kr_git-github-workshop-participation-certificate-activity-6766319000923254784-65dx) - 2021-02-13
 
 
 [Database for Developers Foundation](https://www.linkedin.com/posts/adarsh-kr_certificate-of-databases-for-developers-activity-6766327879111360512-krN-) - 2021-02-13
