@@ -137,16 +137,16 @@ but also gives you various benefits which can improve the quality of your life. 
 
 ### Recent Releases
 <!-- recent_releases starts -->
- [Contributing the Desired amount of storage of Datanode to the Hadoop Cluster by Using LVM](https://www.linkedin.com/posts/adarsh-kr_taskabr7-arth-python-activity-6742345978734555136-9FTP) - 2020-12-10
+ [Ansible Role to Configure K8S Multi-Node Cluster over AWS Cloud](https://www.linkedin.com/posts/adarsh-kr_vimaldaga-righteducation-educationredefine-activity-6766694665786851328-bTr4) - 2021-02-14
  
  
- [Configure the Hadoop cluster by using the ansible-playbook](https://www.linkedin.com/posts/adarsh-kr_arth-task11-vimaldaga-activity-6740318220705681408-wOmQ) - 2020-12-05
+ [Coin Toss application on Android Studio](https://www.linkedin.com/posts/adarsh-kr_arth-task11-vimaldaga-activity-6740318220705681408-wOmQ) - 2021-02-13
  
-[Configure Apache Web Server On the Top of Docker by Using Ansible Playbook](https://www.linkedin.com/posts/adarsh-kr_python-vimaldaga-righteducation-activity-6739629281124659200-trh4) - 2020-12-05
+[Configure WordPress on AWS EC2 Instance by Using Relational Database Service (RDS)](https://youtu.be/Y_0KPGsePqY) - 2021-02-13
 
 
 
-[Attach EBS Volume from one region to an instance in another region](https://www.linkedin.com/posts/adarsh-kr_aws-awscloud-amazonaws-activity-6740334392390017024-54bv) - 2020-12-5
+[Database for Developers Foundation](https://www.linkedin.com/posts/adarsh-kr_certificate-of-databases-for-developers-activity-6766327879111360512-krN-) - 2021-02-13
 
 
 </td><td valign="top" width="34%"> 
@@ -156,19 +156,18 @@ but also gives you various benefits which can improve the quality of your life. 
 
 ### On My Blog
 <!-- blog starts -->
+
+[Kubernetes: the Linux of the cloud](https://kadarsh994.medium.com/kubernetes-the-linux-of-the-cloud-a6c084f6122a) - 2020-12-27
+
+[How big MNC’s like Google, Facebook, Instagram, etc. stores, manage, and manipulate thousands of Terabytes of data with High Speed and High Efficiency.](https://kadarsh994.medium.com/how-big-mncs-like-google-facebook-instagram-etc-68a6dd41455c) - 2021-01-01
+
+[Configuring HTTPD Server (Apache Server) on Docker Container](https://kadarsh994.medium.com/configuring-httpd-server-apache-server-on-docker-container-85b1a7eb801) - 2020-09-02
+
 [Integrating LVM with Hadoop and providing Elasticity to DataNode Storage](https://kadarsh994.medium.com/integrating-lvm-with-hadoop-and-providing-elasticity-to-datanode-storage-177d0a248460) - 2020-09-02
 
 
 [Lauching an Instance and attaching a EBS using AWS CLI](https://idigitalcommunity.blogspot.com/2020/10/create-ebs-volume-and-connect-it-to-ec2.html) - 2020-10-21
 
-
-[A Review and Case Studies on AWS](https://idigitalcommunity.blogspot.com/2020/09/case-studies-of-companies-got-benefited.html) - 2020-09-21
-
-
-[A Review and Case Study at Machine Learning and Artificial Intelligence](https://idigitalcommunity.blogspot.com/2020/10/1.html) - 2020-10-17
-
-
-[Memory Management in Python](https://idigitalcommunity.blogspot.com/2020/06/memory-management-in-python-python.html) - 2020-06-25
 
 
 </td><td valign="top" width="33%">
