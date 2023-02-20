@@ -1,6 +1,6 @@
 # Namaste { coders } ! &nbsp; <img src="https://github.com/i-adarsh/i-adarsh/blob/main/gif/Namaste.gif" width="40px"/>  &nbsp;, I am Adarsh &nbsp; <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/emojidex/112/male-student_1f468-200d-1f393.png" width="30px" />
 
-<!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+<!-- <img src="https://raw.githubusercontent.com/i-adarsh/i-adarsh/main/gif/Hi.gif" width="29px"> 
 
 https://github.com/i-adarsh/i-adarsh/blob/main/92598f86d39965bbc493ce8b3f141d2d.gif  
 
@@ -95,7 +95,7 @@ As we all know that under <b>engineering</b>, technical skills always provide un
 
 ## My Hobbies ✍
 
-<img align='left' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
+<img align='left' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
  
 Having a hobby is a <b>great</b> <img align='right' src='https://github.com/hackcoderr/hackcoderr/blob/main/assets/hobbies.png' width='300"'><b>thing</b> for each and everyone because it not only entertains you,
 but also gives you various benefits which can improve the quality of your life. It <b>reduces your mental stress and gives a soothing and relaxing feeling</b>. My hobby is also one of them and I read various kinds of books. I have also started writing so that I could make my hobby as my profession and some of them are as follows.
