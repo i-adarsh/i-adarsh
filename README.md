@@ -121,7 +121,7 @@ but also gives you various benefits which can improve the quality of your life. 
  <img align="right" width="300" height="240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-adarsh&layout=compact&show_icons=true)](https://github.com/i-adarsh/github-readme-stats" />
 </a>
 
- 
+ <br /> <br /> <br /> <br /> <br />
 <!--BLOG Process-->
 ## Updates &nbsp; <img src="https://raw.githubusercontent.com/i-adarsh/i-adarsh/main/gif/nerd-face.png" width=30px>
 <b>
