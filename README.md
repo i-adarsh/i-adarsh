@@ -45,10 +45,17 @@ Here are some ideas to get you started:
  
 ## About Me  &nbsp; <img src="https://raw.githubusercontent.com/i-adarsh/i-adarsh/main/gif/about.png" width="30px"/>
  <!-- ✍ -->
- As a <b>Technical Solutions Engineer</b> at <b> Google Cloud </b> with experience in complex integration and troubleshooting. I take pride in the fact that I have helped top 50 Platinum Google Cloud customers to navigate and utilize over <b> 9+ GCP services </b>. I am always looking for new challenges and am passionate about understanding the core concepts behind different popular technological fields. My passion for understanding the fundamental concepts behind popular technological fields has driven me to excel in my career. Along with my technical skills, I bring a friendly and motivating personality to the team environment.
+<b> Technical Solutions Engineer<b> at <b>Google Cloud<b> with experience in <b>complex integration and troubleshooting<b>.
 
-In my free time, I enjoy playing cricket, table tennis, and pool. 
+Helped <b>top 50 Platinum Google Cloud customers<b> to navigate and utilize over <b>9+ GCP services<b>.
 
+Always looking for new challenges.
+
+Passionate about understanding the core concepts behind different popular technological fields which has driven me to excel in my career.
+
+Bring a <b>friendly and motivating personality<b> to the team environment.
+
+Enjoy playing cricket, table tennis, and pool in my free time
 
 </div>
 
