@@ -108,11 +108,10 @@ but also gives you various benefits which can improve the quality of your life. 
   <a href="https://www.hackerrank.com/i_adarsh" target="_blank">
     <img src="https://github.com/i-adarsh/i-adarsh/blob/main/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
-  
+</p>
 
 
 <!--Github Progess bar-->
-<div>
 ## Quick Overview &nbsp; <img src="https://raw.githubusercontent.com/i-adarsh/i-adarsh/main/gif/memo.png" width="30px"/>
     
 <a href="https://github.com/hackcoderr/github-readme-stats">
