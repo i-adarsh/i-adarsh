@@ -127,7 +127,8 @@ but also gives you various benefits which can improve the quality of your life. 
 <!---[![GitHub](https://github-readme-stats-abserari.vercel.app/api?username=i-adarsh&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/i-adarsh)-->
 &nbsp;
 <br><br>
-</div>
+
+##
 
 <!--BLOG Process-->
 ## Updates &nbsp; <img src="https://raw.githubusercontent.com/i-adarsh/i-adarsh/main/gif/nerd-face.png" width=30px>
