@@ -124,7 +124,8 @@ but also gives you various benefits which can improve the quality of your life. 
  <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
 <!--BLOG Process-->
 <div>
-## Updates &nbsp; <img src="https://raw.githubusercontent.com/i-adarsh/i-adarsh/main/gif/nerd-face.png" width=30px>
+ <p></p>
+ ## Updates &nbsp; <img src="https://raw.githubusercontent.com/i-adarsh/i-adarsh/main/gif/nerd-face.png" width=30px>
 <b>
 <table><tr><td valign="top" width="33%">
 
