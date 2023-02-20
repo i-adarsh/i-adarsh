@@ -58,8 +58,7 @@ Here are some ideas to get you started:
 
 <!--Technical Skills 🛠 -->
 
-
-<img align='right' src='https://github.com/i-adarsh/i-adarsh/blob/main/gif/code.gif?raw=true' width='300'> &nbsp;&nbsp;
+<img align='right' src='https://github.com/i-adarsh/i-adarsh/blob/main/gif/code.gif?raw=true' width='300'> &nbsp;
 
 As we all know that under <b>engineering</b>, technical skills always provide unique gratitude and passion for any technical guy. So these technical skills of the engineer always help him, in the same way at all the time, Just as <b>Soldier</b> protects his life from his enemies using the weapons and scriptures in a war. I am also an engineer, so I too should have such weapons and scriptures, so I  have some technical skills too,  which are the following but I am also in a learning state <img src="https://raw.githubusercontent.com/i-adarsh/i-adarsh/main/gif/man-technologist.png" width='30px'>
 
