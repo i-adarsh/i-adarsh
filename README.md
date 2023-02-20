@@ -13,10 +13,10 @@ https://github.com/i-adarsh/i-adarsh/blob/main/gif/skill.gif
 <!--Header-->
 <br><br/><br/>
 - 🔭 I’m currently looking for a chance.
-- 🌱 I’m currently learning Ansible, Docker, AWS, DevOps. 
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning Spring Boot, Data Structures and Algorithms, System Design. 
+<!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about ... -->
 <br/><br/><br/><br/><br/><br/>
 
  <!-- 
