@@ -130,7 +130,7 @@ but also gives you various benefits which can improve the quality of your life. 
 
 
 <!--BLOG Process-->
-## Updates &nbsp; <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/263/nerd-face_1f913.png" width=30px>
+## Updates &nbsp; <img src="https://raw.githubusercontent.com/i-adarsh/i-adarsh/main/gif/nerd-face.png" width=30px>
 <b>
 <table><tr><td valign="top" width="33%">
 
