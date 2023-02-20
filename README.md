@@ -29,8 +29,7 @@ Here are some ideas to get you started:
 <br>
 
 <div align="center">
-  
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/i-adarsh)
+
 [![Linkedin Badge](https://img.shields.io/badge/-Adarsh%20Kumar-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/adarsh-kr/)](https://www.linkedin.com/in/adarsh-kr//) [![Twitter Badge](http://img.shields.io/badge/-@AdarshKumar-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/i_adarsh_kr/)](https://twitter.com/i_adarsh_kr) [![GitHub followers](https://img.shields.io/github/followers/hac?label=Follow&style=social)](https://github.com/i-adarsh)
 [![Instagram Badge](https://img.shields.io/badge/-AdarshKumar-blue?style=social&logo=Instagram&link=https://www.linkedin.com/in/adarsh-kr/)](https://www.linkedin.com/in/adarsh-kr/) 
 
