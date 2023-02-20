@@ -123,9 +123,8 @@ but also gives you various benefits which can improve the quality of your life. 
 
  <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
 <!--BLOG Process-->
-<div>
- <p></p>
- ## Updates &nbsp; <img src="https://raw.githubusercontent.com/i-adarsh/i-adarsh/main/gif/nerd-face.png" width=30px>
+<p></p>
+## Updates &nbsp; <img src="https://raw.githubusercontent.com/i-adarsh/i-adarsh/main/gif/nerd-face.png" width=30px>
 <b>
 <table><tr><td valign="top" width="33%">
 
@@ -186,7 +185,6 @@ but also gives you various benefits which can improve the quality of your life. 
 
 </td></tr></table> </b>
 
-</div>
 <!--footer-->
 
 <img align='right' src="https://github.com/i-adarsh/i-adarsh/blob/main/gif/footer2.gif" width="240">
