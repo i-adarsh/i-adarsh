@@ -106,7 +106,7 @@ Having a hobby is a <b>great thing</b> for each and everyone because it not only
 but also gives you various benefits which can improve the quality of your life. It <b>reduces your mental stress and gives a soothing and relaxing feeling</b>. One of my favorite hobbies is playing <b>cricket</b>, <b>table tennis</b>, and <b>pool</b>. I enjoy participating in these sports in my free time.
 <br>
 ##
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.codechef.com/users/i_adarsh" target="_blank">
     <img src="https://github.com/i-adarsh/i-adarsh/blob/main/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
@@ -114,7 +114,7 @@ but also gives you various benefits which can improve the quality of your life. 
   <a href="https://www.hackerrank.com/i_adarsh" target="_blank">
     <img src="https://github.com/i-adarsh/i-adarsh/blob/main/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
-</p>
+</p> -->
 
 
 <!--Github Progess bar-->
