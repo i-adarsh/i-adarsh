@@ -229,5 +229,5 @@ but also gives you various benefits which can improve the quality of your life. 
 </p>
 <img height="100%" alt="Thanks for visiting me" width="100%" src="https://github.com/i-adarsh/i-adarsh/blob/main/svg/thanks.svg" />
 
-<a href="https://github.com/hackcoderr/hackcoderr"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
+<a href="https://github.com/i-adarsh"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
   </div>
