@@ -120,7 +120,7 @@ but also gives you various benefits which can improve the quality of your life. 
 <!--Github Progess bar-->
 ## Quick Overview &nbsp; <img src="https://raw.githubusercontent.com/i-adarsh/i-adarsh/main/gif/memo.png" width="30px"/>
     
-<a href="https://github.com/hackcoderr/github-readme-stats">
+<a href="https://github.com/i-adarsh/github-readme-stats">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=i-adarsh&&layout=compact&show_icons=true&include_all_commits=true" alt="Adarsh's github stats" />
 </a>
 <a href="https://github.com/i-adarsh/github-readme-stats">
